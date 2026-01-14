@@ -1,2 +1,2 @@
-# Smart_Rescue_Mat
-[한국AI·로봇산업협회] 디자인씽킹 기반 로봇 서비스·솔루션 기획
+## Smart_Rescue_Mat
+[![Unity 시뮬레이션](https://img.shields.io/badge/Unity%20시뮬레이션-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/1ch15RptymY?si=8AR0AW0XG8JsFfnL)
