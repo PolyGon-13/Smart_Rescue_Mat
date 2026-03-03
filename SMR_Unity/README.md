@@ -7,4 +7,4 @@
 
 * **패키지명:** Versatile Studio Assets - Demo City By Versatile Studio
 
-[<img src="https://user-images.githubusercontent.com/13101541/231145100-c9a174f9-b883-490c-b262-b9b5f3d61183.png" alt="unity asset store" width="160" height="30">](https://assetstore.unity.com/packages/3d/environments/urban/demo-city-by-versatile-studio-mobile-friendly-269772)
+[![Unity Asset Store](https://img.shields.io/badge/Unity_Asset_Store-Download-grey?logo=unity)](https://assetstore.unity.com/packages/3d/environments/urban/demo-city-by-versatile-studio-mobile-friendly-269772)
