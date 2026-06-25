@@ -2,7 +2,7 @@
 
 Intel RealSense D435i와 YOLOv8을 이용하여 탁구공을 인식하고, 터틀봇이 XY 정렬을 하는 프로젝트
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/XsSxA7pj_08?si=eO9btbUxAGqNdQLp)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/shorts/XsSxA7pj_08?si=eO9btbUxAGqNdQLp)
 
 ---
 ## 💻 개발 환경 (Environment)
